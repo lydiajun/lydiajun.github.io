@@ -44,91 +44,78 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
       "area": "Finance, International Business, & Management Information Systems (expected Spring, 2023)",
       "studyType": "B.B.A.",
       "startDate": "2019-08",
-      "endDate": "Present",
-      "Honors": "Charles R. Hemenway Scholarship, Dean’s List, Hawaii Veterans Memorial Scholarship, Provost Achievement Scholarship, Shidler Global Leader"
+      "endDate": "Present"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Office of Enterprise Technology Services, State of Hawaii",
+      "position": "Project Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist Department of Accounting and General Services and Department of Budget and Finance with financial system modernization effort.",
+        "Create accurate, detailed, and up-to-date Treasury and Bond business process diagrams."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Odo Scholarship Foundation, Next Gen Leaders Program",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Craft solution toward homelessness in Hawaii and contribute toward Hawaii 2.0 Initiative with capstone group and present project proposal to business and community leaders.",
+        "Interact with 10+ business leaders and professionals to learn in-depth about various issues affecting Hawaii including climate change, digital globalization, tourism, racism, and homelessness."
+      ]
+    },
+    {
+      "company": "First Insurance Company of Hawaii",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2020-08",
+      "endDate": "2020-12",
+      "summary": "",
+      "highlights": [
+        "Analyzed workflow for commercial underwriting and presented suggestions to department leads on how to make process more efficient and paperless.",
+        "Analyzed social media marketing strategy and presented recommendations on how to improve engagement amongst young adults in their 20s and 30s.",
+        "Conducted a market scan and researched Hawaii’s business industry to give a final presentation to 30+ company executives and team leads about recommendations targeting underrepresented areas of the company and opportunities for growth."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Delta Sigma Pi - Rho Chi",
+      "website": "",
+      "position": "Director of Corporate Relations",
+      "startDate": "2020-05",
+      "endDate": "2020-12",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Communicated with 50+ local businesses and professionals to expand Rho Chi’s network and provide potential professional development opportunities for brothers.",
+        "Raised a total of $2,150 in sponsorships by obtaining 7 sponsors for the Fall 2020 semester.",
+        "Created a sponsorship packet that marketed Rho Chi sponsorships using graphic design software.",
+        "Executed first-ever virtual Mock Interviews, which included 40+ attendees."
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
