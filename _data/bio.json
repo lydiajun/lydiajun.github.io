@@ -2,7 +2,7 @@
   "basics": {
     "name": "Lydia Jun",
     "label": "Student",
-    "picture": "https://lydiajun.github.io/images/AfterlightImage.jpg",
+    "picture": "https://lydiajun.github.io/images/square.jpg",
     "email": "lydiajun@hawaii.edu",
     "phone": "",
     "website": "https://lydiajun.github.io",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Food",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Fashion",
+      "name": "Drawing",
       "keywords": [
       ]
     },
     {
       "name": "Gaming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Food",
       "keywords": [
       ]
     }
