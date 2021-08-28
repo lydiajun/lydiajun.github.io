@@ -8,7 +8,7 @@ labels:
   - MIS
 ---
 
-Since childhood, I loved playing around with technology. Using HTML code templates I found online, I built my own websites for fun. I obviously didn't understand the codes, but I liked seeing how changing and adding a bunch of letters and symbols enabled me to establish and tweak interesting features on my website. 
+Since childhood, I loved playing around with technology. Using HTML code templates I found online, I built my own websites for fun. I obviously didn't understand the codes, but I liked seeing how changing and adding a bunch of letters and symbols enabled me to establish interesting features on my website. 
 
 Fast forward to today, and I am now pursuing MIS: a major in which I will actually have to understand HTML, coding, and how "a bunch of letters and symbols" can create the perfect business solution. But why am I taking MIS? 
 
@@ -20,4 +20,4 @@ I asked everyone, "Why are you pursuing your major?" Out of all the conversation
 
 Hearing such relieving input finally pushed me to take on MIS. I'm interested in technology? Check. I'm open to a technology-related career? Check. I won't be discouraged by the immense effort I will need to put in to learn coding? I wouldn't have checked this off a couple of months ago, but I can now. 
 
-As technological advancement persists forward at a rapid pace, I'm realizing the increasing importance of technology today. I'm excited at the possibility of becoming a knowledgable leader of who can identify the technological solutions an organization needs. 
+As technological advancement persists forward at a rapid pace, I'm realizing the increasing importance of technology today. I'm excited at the possibility of becoming a knowledgable leader of who can identify the technological solutions an organization needs. I'm also confident that I hold the analytical, critical thinking, and teamworking skills needed to succeed in a MIS career. For these reasons, I am majoring in MIS.
