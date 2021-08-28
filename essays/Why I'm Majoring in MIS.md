@@ -6,18 +6,8 @@ title: Why I'm Majoring in MIS
 date: 2021-08-27
 labels:
   - MIS
-  - Shidler
 ---
 
-A year ago, I entered Shidler with the firm intention to major in Finance. 
+A year ago, I entered Shidler with the firm intention to major in Finance. I already knew and understood my interest in analyzing numbers and making decisions based on my analyses. I also understood that the nature of financial careers would match my personality and working style, which I would describe as rational, analytical, and straightforward. 
 
-
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-I never used to think that design and technology went hand in hand.  
-
-
-Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
-
+Due to the low number of courses required for many majors at Shidler, I wanted to take the opportunity to pursue one or two more majors; however, I was unsure of which majors to pursue because I felt uninformed 
