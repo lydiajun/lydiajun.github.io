@@ -5,7 +5,7 @@ title: E1 UI Basics
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-16
 labels:
-  - MIS
+  - WODs
 ---
 
 As my first-ever WOD, BrowserHistory1 was, admittedly, a challenging assignment for me in the beginning. I had to resist the urge to resort to the screencast. The first time I attempted the WOD, I realized I had not sufficiently reviewed the readings about HTML; therefore, I had to stop myself and review the material once again. After I felt like I thoroughly understood and remembered the necessary HTML for the assignment, I came back to complete the WOD. Everything went well except for the fact that I had thought, for some reason, that "Rx" required a time under ten minutes instead of fifteen minutes. I reached a time of 12 minutes and I thought to myself, "This is insanely difficult, how do people run through this under ten minutes?" and I reattempted the WOD one more time before I realized that I was re-doing the WOD for no reason. In short, I actually had reached Rx my second time. Needless to say, the moral of this WOD is to look at the instructions carefully in order to prevent unnecessary lost time.
