@@ -8,6 +8,7 @@ labels:
   - WODs
 ---
 
+Link to Github: https://github.com/lydiajun/lydiajun.github.io/blob/master/essays/E3%20Performing%20WODs.md
 Invoice1 is a WOD that enabled me to practice creating an invoice that lists the products bought, including prices and quantities, and calculates the grand total of the purchase by adding the subtotal of the items and the sales tax. 
 
 I did this WOD a total of three times. The first time was merely an attempt to work through the steps of the WOD without having watched the screencast. Everything was okay in my first attempt until I had to change the numbers to only reflect two decimal places, because I was unsure of where I had to place ".toFixed(2)". My second attempt was okay but I did not reach Rx time. In my third attempt, everything went well and I reached Rx time.
