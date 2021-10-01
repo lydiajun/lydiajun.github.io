@@ -8,7 +8,7 @@ labels:
   - WODs
 ---
 
-Invoice1 is a WOD that enabled me to practice creating an invoice that lists the products bought, including prices and quantities, and calculates the grand total of the purchase by adding the subtotal of the items and the sales tax. You can view more details of the WOD here: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+Invoice1 is a WOD that enabled me to practice creating an invoice that lists the products bought, including prices and quantities, and calculates the grand total of the purchase by adding the subtotal of the items and the sales tax. You can view more details of the WOD [here] (https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html).
 
 I did this WOD a total of three times. The first time was merely an attempt to work through the steps of the WOD without having watched the screencast. Everything was okay in my first attempt until I had to change the numbers to only reflect two decimal places, because I was unsure of where I had to place ".toFixed(2)". My second attempt was okay but I did not reach Rx time. In my third attempt, everything went well and I reached Rx time.
 
