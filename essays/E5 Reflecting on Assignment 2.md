@@ -10,9 +10,9 @@ labels:
 ---
 
 1) Provide a brief introduction to the assignment along with a link to this page for further details
+
 [E5 Reflecting on Assignment 2](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html
 )
-
 Assignment 2 tasked me to expand on what I accomplished in Assignment 1 through the addition of a login and registration page. The customer would be unable to purchase any items or access the invoice page without a successful login or registration.
 
 
